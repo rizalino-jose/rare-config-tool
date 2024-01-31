@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Domain/bin/Debug
+/Domain/obj
+/Persistence/bin/Debug
+/Persistence/obj
+/RareConfig.Api/bin/Debug
+/RareConfig.Api/obj
+/RareConfig.Api/FileLogs/RareServicesRepository_GroomTablesWithEmail
+/RareConfig.Api/bin/Release/net6.0
+/Domain/bin/Release/net6.0
+/Persistence/bin/Release/net6.0
+/RareConfig.Api/FileLogs
