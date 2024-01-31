@@ -1,0 +1,1 @@
+# rare-config-tool
